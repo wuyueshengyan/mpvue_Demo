@@ -1,0 +1,19 @@
+[{
+    "moduleType": "banner",
+    "data": [{
+            "linkUrl": "",
+            "picUrl": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=352487523,987486366&fm=26&gp=0.jpg"
+        },
+        {
+            "linkUrl": "",
+            "picUrl": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1650073678,493253519&fm=26&gp=0.jpg"
+        },
+        {
+            "linkUrl": "",
+            "picUrl": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3339976498,982768364&fm=26&gp=0.jpg"
+        }
+    ],
+    "style": {
+        "height": "300px"
+    }
+}]
